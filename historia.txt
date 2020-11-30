@@ -4,3 +4,4 @@ Roberto Londoño tiene 33 años y nacio en Colombia
 y vive en Bogotá
 
 Hoy hablaremos de su historia.
+Estudiante de mintic y aprendiendo Git
